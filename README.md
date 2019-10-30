@@ -2,17 +2,17 @@
 52 technologies in 2016 [![GitHub Stats](https://img.shields.io/badge/github-stats-brightgreen.svg)](http://githubstats.com/shekhargulati/52-technologies-in-2016)  [![SayThanks](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/shekhargulati)
 --------
 
-I have taken a challenge to learn a new technology every week in 2016. The goal is to learn a new technology, build a simple application using it, and blog about it.
+I have taken a challenge to a new technology every week in 2016. The goal is to learn a new technology, build a simple application using it, and blog about it.
 
 > **I have decided to discontinue this series after writing 42 blogs. No more blogs will be published in this series. Thanks for your support.**
 
 ## Contributing to the 52 technologies in 2016 series
 
-Please contribute if you see an error or something that could be better! Raise an [issue](https://github.com/shekhargulati/52-technologies-in-2016/issues) or send me a pull request to improve. Contributions of all kinds, including corrections, additions, improvements, and translations, are welcome!
+Please contribute if an error or something that could be better! Raise an [issue](https://github.com/shekhargulati/52-technologies-in-2016/issues) or send me a pull request to improve. Contributions of all kinds, including corrections, additions, improvements, and translations, are welcome!
 
 ## Open for external blogs
 
-If you would like to write a guest post for 52-technologies-in-2016 series then send a PR with a blog post.
+If you would like to write guest post for 52-technologies-in-2016 series then send a PR with a blog post.
 
 ## Technologies covered in 52 technologies in 2016 series
 
