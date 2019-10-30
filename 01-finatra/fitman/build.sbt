@@ -13,6 +13,7 @@ lazy val versions = new {
 resolvers ++= Seq(
   Resolver.sonatypeRepo("releases"),
   "Twitter Maven" at "https://maven.twttr.com"
+  
 )
 
 libraryDependencies += "com.twitter.finatra" % "finatra-http_2.11" % versions.finatra
